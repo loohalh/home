@@ -31,7 +31,22 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "哪吒探海",
+    "link": "http://host.looha.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "Home-host",
+    "link": "http://looha.cn:5182/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "iKuai",
+    "link": "http://ikuai.looha.cn/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "NAS",
+    "link": "http://nas.looha.cn/"
   }
 ]
