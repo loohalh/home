@@ -93,7 +93,7 @@ export default ({ mode }) =>
     ],
     server: {
       port: "3080",
-      open: false,
+      open: true,
     },
     resolve: {
       alias: [
