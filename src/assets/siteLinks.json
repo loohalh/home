@@ -1,52 +1,42 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "http://blog.looha.top"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "http://cloud.looha.top"
+    "name": "博  客",
+    "link": "http://www.blog.looha.top"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "http://music.looha.top"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "哪吒探海",
-    "link": "http://host.looha.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "音  乐",
+    "link": "http://www.music.looha.top"
   },
   {
     "icon": "LaptopCode",
     "name": "哪吒探海",
-    "link": "http://host.looha.top/"
+    "link": "http://www.host.looha.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "Home-host",
-    "link": "http://looha.cn:5182/"
+    "icon": "Images",
+    "name": "图  库",
+    "link": "https://www.img.looha.top/"
   },
   {
-    "icon": "Book",
-    "name": "iKuai",
-    "link": "http://ikuai.looha.cn/"
+    "icon": "CloudDownloadAlt",
+    "name": "网  盘",
+    "link": "http://www.cloud.looha.top"
   },
   {
-    "icon": "Cloud",
+    "icon": "CloudUploadAlt",
     "name": "NAS",
     "link": "http://nas.looha.cn/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "tools",
+    "link": "https://www.tools.fun"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "itdog",
+    "link": "https://www.itdog.cn"
   }
 ]

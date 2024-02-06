@@ -57,8 +57,8 @@ const getWidth = () => {
 // 加载完成事件
 const loadComplete = () => {
   nextTick(() => {
-    // 欢迎提示
-    helloInit();
+    // 欢迎提示  去除欢迎提示
+    // helloInit();
     // 默哀模式
     checkDays();
   });
@@ -80,11 +80,12 @@ onMounted(() => {
 
   // 屏蔽右键
   document.oncontextmenu = () => {
-    ElMessage({
-      message: "为了浏览体验，本站禁用右键",
-      grouping: true,
-      duration: 2000,
-    });
+    //去除右键提示
+    // ElMessage({
+    //   message: "为了浏览体验，本站禁用右键",
+    //   grouping: true,
+    //   duration: 2000,
+    // });
     return false;
   };
 

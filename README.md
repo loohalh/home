@@ -102,6 +102,8 @@ import {
   Book,
   Fire,
   LaptopCode,
+  Images,
+  FileImageRegular,
 } from "@vicons/fa";
 
 ...
@@ -115,6 +117,8 @@ const siteIcon = {
   Book,
   Fire,
   LaptopCode,
+  Images,
+  FileImageRegular,
 };
 ```
 
