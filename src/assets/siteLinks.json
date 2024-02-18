@@ -36,19 +36,5 @@
         "link": "http://nas.looha.cn/"
       }
     ] 
-  ],
-  [
-    [
-      {
-        "icon": "LaptopCode",
-        "name": "tools",
-        "link": "https://www.tools.fun"
-      },
-      {
-        "icon": "LaptopCode",
-        "name": "itdog",
-        "link": "https://www.itdog.cn"
-      }
-    ]
   ]
 ]
